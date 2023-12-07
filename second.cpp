@@ -2,12 +2,6 @@
 #include <fstream>
 #include <string>
 
-struct pair {
-    std::string first;
-    int second; 
-};
-
-
 int main() {
 
     std::ifstream fin;
